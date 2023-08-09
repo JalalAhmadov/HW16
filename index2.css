@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mm {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+#par {
+    color: grey;
+    margin-top: 15px;
+}
+img {
+    width: 360px;
+    height: 270px;
+}
+.aa {
+   width: 300px;
+   height: 300px;
+}
+.qaqa {
+    color: blueviolet;
+    
+}
+.ee {
+    margin-top: 30px;
+}
